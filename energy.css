@@ -1,0 +1,14 @@
+.picture{
+    background-image: linear-gradient(rgba(0, 0, 30, 0.096), rgba(0, 0, 30, 0.171)), url(./image/WhatsApp\ Image\ 2023-04-11\ at\ 10.21.17\ AM\ \(8\).jpeg);
+    width: 100%;
+    height: 720px;
+    background-size: cover;
+}
+.text1{
+    font-size: 65px;
+    padding: 100px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 250px;
+}
