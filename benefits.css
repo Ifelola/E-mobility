@@ -12,3 +12,14 @@
     position: relative;
     top: 250px;
 }
+.footpass{
+    background-color: transparent;
+    color: #6d6e76;
+    border: 2px solid #6d6e76;
+    outline: none;
+}
+@media only screen and (max-width: 600px) {
+    .footpass{
+        width: 100%;
+      }
+}
